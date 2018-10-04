@@ -1,8 +1,8 @@
 # geoserver-docker-build
 
-GeoServer 2.13.1
+GeoServer 2.14.0
 
-Released on May 21th, 2018
+Released on September 24th, 2018
 
 How to use:
 
