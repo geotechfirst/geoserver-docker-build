@@ -1,9 +1,9 @@
 # geoserver-docker-build
 
-GeoServer 2.13.1
+GeoServer 2.28.2
 
-Released on May 21th, 2018
+Released on Jan 21th, 2026
 
 How to use:
 
-docker run -d -p 8080:8080 geotechfirst/geoserver-alpine:2.13.1-jre8-alpine
+docker run -d -p 8080:8080 geotechfirst/geoserver-ubuntu:2.28.2
